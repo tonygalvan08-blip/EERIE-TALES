@@ -1,0 +1,79 @@
+{
+  "welcome": {
+    "id": "welcome",
+    "text": "Your night shift at Eerie Springs Gas begins. Follow the objective list.",
+    "duration": 5.0
+  },
+  "movement": {
+    "id": "movement",
+    "text": "WASD to move \u00b7 Mouse to look",
+    "duration": 4.0,
+    "once": true
+  },
+  "flashlight": {
+    "id": "flashlight",
+    "text": "Press F to toggle your flashlight",
+    "duration": 4.0,
+    "once": true
+  },
+  "interact": {
+    "id": "interact",
+    "text": "Press E to interact",
+    "duration": 3.5,
+    "once": true
+  },
+  "clock_in": {
+    "id": "clock_in",
+    "text": "Walk to the register and press E on the timecard to clock in",
+    "duration": 5.0,
+    "once": true
+  },
+  "manager_note": {
+    "id": "manager_note",
+    "text": "Press E to read the manager's note taped by the register",
+    "duration": 4.5,
+    "once": true
+  },
+  "chores": {
+    "id": "chores",
+    "text": "Complete chores from your objective list when customers aren't waiting",
+    "duration": 5.0,
+    "once": true
+  },
+  "scanner": {
+    "id": "scanner",
+    "text": "Left-click to scan items with your hand scanner",
+    "duration": 4.5,
+    "once": true
+  },
+  "register_total": {
+    "id": "register_total",
+    "text": "The register shows the total. Take the customer's cash, then make correct change.",
+    "duration": 6.0,
+    "once": true
+  },
+  "make_change": {
+    "id": "make_change",
+    "text": "Click bills/coins to give change until the drawer shows $0.00 owed.",
+    "duration": 6.0,
+    "once": true
+  },
+  "pump_customer": {
+    "id": "pump_customer",
+    "text": "A customer is at the pumps \u2014 help them from the register pump panel or go outside.",
+    "duration": 5.0,
+    "once": true
+  },
+  "cooler_alarm": {
+    "id": "cooler_alarm",
+    "text": "Cooler alarm! Go behind the coolers and press E on the alarm box to shut it off.",
+    "duration": 6.0,
+    "once": true
+  },
+  "hints_toggle": {
+    "id": "hints_toggle",
+    "text": "Press H or use Settings to turn hints on/off.",
+    "duration": 4.0,
+    "once": true
+  }
+}

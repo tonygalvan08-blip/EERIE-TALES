@@ -1,0 +1,39 @@
+[
+  {
+    "id": "clock_in",
+    "name": "Clock in at the register",
+    "target": "timecard",
+    "required": true
+  },
+  {
+    "id": "read_note",
+    "name": "Read the manager's note",
+    "target": "manager_note",
+    "required": true
+  },
+  {
+    "id": "mop_aisle2",
+    "name": "Mop the spill in aisle 2",
+    "target": "spill_aisle2"
+  },
+  {
+    "id": "restock_cooler",
+    "name": "Restock the cooler shelves",
+    "target": "cooler_stock"
+  },
+  {
+    "id": "take_trash",
+    "name": "Take out the trash",
+    "target": "trash_bag"
+  },
+  {
+    "id": "clean_restroom",
+    "name": "Clean the restroom",
+    "target": "restroom_sink"
+  },
+  {
+    "id": "check_coolers",
+    "name": "Check the coolers",
+    "target": "cooler_door"
+  }
+]
